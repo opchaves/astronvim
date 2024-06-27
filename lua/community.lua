@@ -10,9 +10,9 @@ return {
   { import = "astrocommunity.colorscheme.github-nvim-theme" },
   { import = "astrocommunity.colorscheme.tokyonight-nvim" },
   { import = "astrocommunity.pack.lua" },
+  { import = "astrocommunity.completion.copilot-lua-cmp" },
   { import = "astrocommunity.pack.typescript" },
-  { import = "astrocommunity.pack.java" },
-  { import = "astrocommunity.pack.go" },
-  -- { import = "astrocommunity.completion.copilot-lua-cmp" },
+  -- { import = "astrocommunity.pack.java" },
+  { import = "astrocommunity.pack.go" }
   -- import/override with your plugins folder
 }
