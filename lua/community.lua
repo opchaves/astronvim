@@ -11,6 +11,7 @@ return {
   { import = "astrocommunity.colorscheme.tokyonight-nvim" },
   { import = "astrocommunity.pack.lua" },
   { import = "astrocommunity.completion.copilot-lua-cmp" },
+  { import = "astrocommunity.editing-support.copilotchat-nvim" },
   { import = "astrocommunity.pack.typescript" },
   { import = "astrocommunity.pack.go" },
   -- https://github.com/AstroNvim/astrocommunity/tree/main/lua/astrocommunity/pack/java
