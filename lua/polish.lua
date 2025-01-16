@@ -8,10 +8,10 @@
 vim.filetype.add {
   extension = {
     foo = "fooscript",
-    html = "gohtml",
   },
   filename = {
     ["Foofile"] = "fooscript",
+    ["*.gohtml"] = "html",
   },
   pattern = {
     ["~/%.config/foo/.*"] = "fooscript",
